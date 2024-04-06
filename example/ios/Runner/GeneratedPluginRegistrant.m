@@ -6,10 +6,10 @@
 
 #import "GeneratedPluginRegistrant.h"
 
-#if __has_include(<firebase_core/FLTFirebaseCorePlugin.h>)
-#import <firebase_core/FLTFirebaseCorePlugin.h>
+#if __has_include(<firebase_core_pos/FLTFirebaseCorePlugin.h>)
+#import <firebase_core_pos/FLTFirebaseCorePlugin.h>
 #else
-@import firebase_core;
+@import firebase_core_pos;
 #endif
 
 @implementation GeneratedPluginRegistrant

@@ -278,13 +278,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "firebase_core",
+      "name": "firebase_core_pos",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2024-04-05T10:26:11.507426Z",
+  "generated": "2024-04-06T02:58:34.398319Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }

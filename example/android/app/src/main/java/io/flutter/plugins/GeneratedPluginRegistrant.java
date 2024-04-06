@@ -18,7 +18,7 @@ public final class GeneratedPluginRegistrant {
     try {
       flutterEngine.getPlugins().add(new io.flutter.plugins.firebase.core.FlutterFirebaseCorePlugin());
     } catch(Exception e) {
-      Log.e(TAG, "Error registering plugin firebase_core, io.flutter.plugins.firebase.core.FlutterFirebaseCorePlugin", e);
+      Log.e(TAG, "Error registering plugin firebase_core_pos, io.flutter.plugins.firebase.core.FlutterFirebaseCorePlugin", e);
     }
   }
 }
